@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Andrew Rickerby**
 
-🎓 **University Student | Business Computing**  
+🎓 **University Student | Bachelor of Science (BS)**  
 💻 Passionate about **software development**, **learning new technologies**, and **building cool projects**.  
 
 ---
