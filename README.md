@@ -2,18 +2,15 @@
 
 🎓 **University Student | Business Computing**  
 💻 Passionate about **software development**, **learning new technologies**, and **building cool projects**.  
-🌱 Currently exploring: **[Language/Framework]**, **[Skill/Area]**
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 I'm currently studying **[Your Degree]** at **[Your University]**  
-- 📚 I enjoy working on projects related to **[Your interests: web dev, AI, cybersecurity, etc.]**  
+- 🎯 I'm currently studying **Business Computing** at **Technological University Dublin**  
+- 📚 I enjoy working on projects related to **web development, AI, cybersecurity, B2B solutions, and SaaS platforms**.
 - 🤝 I'm open to collaborating on interesting projects or research  
 - 🧠 Always learning & improving  
-- ☕ Fuelled by coffee and curiosity
-
 ---
 
 ## 🛠️ Languages & Tools
